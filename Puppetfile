@@ -5,7 +5,14 @@ forge 'https://forge.puppet.com'
 #mod 'puppetlabs/inifile',     '2.2.1'
 #mod 'puppetlabs/stdlib',      '4.25.1'
 #mod 'puppetlabs/concat',      '4.2.1'
-
+mod 'puppet-rundeck', '5.4.0'
+mod 'puppetlabs/stdlib'
+mod 'pltraining/dirtree'
+mod 'puppetlabs/inifile'
+mod 'puppet/archive'
+mod 'puppetlabs/java_ks'
+mod 'puppetlabs/translate'
+mod 'puppetlabs/apt'
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 #mod 'apache',
